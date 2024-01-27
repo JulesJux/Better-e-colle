@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Better Colloscope</string>
+    <string name="date">Date et heure</string>
+    <string name="salle">Salle</string>
+    <string name="matiere">Matière</string>
+    <string name="prof">Prof</string>
+    <string name="note">Note</string>
+</resources>
